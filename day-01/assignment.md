@@ -85,3 +85,7 @@ Take a screenshot after completion.
 
 1. Create a GitHub account (if not created).
 2. Create one public repository named:
+
+//https://gamma.app/docs/Python-Programming-Fundamentals-z70l74qfr61vu3d_
+
+https://gamma.app/docs/VELS-VAC-Python-to-Generative-AI-Bootcamp-ccm24jbmsskb94i
