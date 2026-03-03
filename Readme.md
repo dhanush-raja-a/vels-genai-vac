@@ -87,3 +87,6 @@ By the end of this course, students will be able to:
 - Variables & Data Types
 - Introduction to String Manipulation
 - Understanding ML vs GenAI
+
+
+https://wayground.com/join?gc=08963374
