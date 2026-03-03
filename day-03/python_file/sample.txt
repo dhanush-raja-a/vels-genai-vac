@@ -1,0 +1,9 @@
+Hello! This is a sample text file for Day 03.
+In this lesson, we are learning about:
+1. Functions
+2. File Handling
+3. REST APIs
+4. JSON Parsing
+
+Python makes file handling very easy with the 'with' statement.
+Keep practicing!
