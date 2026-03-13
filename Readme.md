@@ -102,3 +102,10 @@ https://wayground.com/join?gc=34773806
 
 notebook for image creation
 https://colab.research.google.com/drive/1nI8JtJ2fTf2saMTzlLLuJ3AH8SNBrl2o?usp=sharing
+
+
+
+
+finall day test 
+https://forms.gle/A2KT86SjJ1PnroLa7
+
